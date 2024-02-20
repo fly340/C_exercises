@@ -1,4 +1,4 @@
-//计算两数之和。
+//Calculate the addition of two numbers.
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
 
