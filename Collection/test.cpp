@@ -1,14 +1,10 @@
-//Calculate the addition of two numbers.
+//Print Hello World, just this once.
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
 
 int main()
 {
-	int a = 0;
-	int b = 0;
-	scanf("%d %d", &a, &b);
-	int sum = a + b;
-	printf("a+b=%d", sum);
+	printf("Hello World\n");
 
 	return 0;
 }
